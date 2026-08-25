@@ -1,0 +1,10 @@
+work/
+.nextflow/
+.nextflow.log*
+results/*
+!results/.gitkeep
+reports/generated/
+__pycache__/
+*.pyc
+.env
+.DS_Store

@@ -1,0 +1,2 @@
+sample,reads1,reads2,long_reads,platform,basecaller,genome_size,ploidy
+isolate_fixture,assets/test-data/short_R1.fastq,assets/test-data/short_R2.fastq,assets/test-data/long.fastq,ont,dorado-sup,5000000,1

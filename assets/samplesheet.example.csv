@@ -1,0 +1,2 @@
+sample,reads1,reads2,long_reads,platform,basecaller,genome_size,ploidy
+my_isolate,/data/my_isolate_R1.fastq.gz,/data/my_isolate_R2.fastq.gz,/data/my_isolate_ont.fastq.gz,ont,dorado-sup,5000000,1
